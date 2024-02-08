@@ -1,0 +1,28 @@
+#include <stdio.h>
+int main() {
+int a;
+int b;
+int c;
+int abacaba;
+a = b;
+a = 2*2;
+if (a+b==10) {
+int d;
+}
+else {
+int c;
+}
+while (a+b==10) {
+int a;
+int b;
+if (a+b==10) {
+int c;
+}
+}
+g(12,a,5,d);
+for (int i = 0; i < 10; ++i) {
+int a;
+}
+printf("%d", 1+2)
+return 0;
+}

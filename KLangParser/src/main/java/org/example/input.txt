@@ -1,0 +1,23 @@
+var a;
+var b;
+var c;
+var abacaba;
+a = b;
+a = 2 * 2;
+if (a + b == 10) {
+ var d;
+} else {
+ var c;
+}
+while (a + b == 10) {
+ var a;
+ var b;
+ if (a + b == 10) {
+   var c;
+ }
+}
+g(12, a, 5, d);
+forn(10) {
+  var a;
+}
+! 1 + 2;
